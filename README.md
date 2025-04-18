@@ -7,3 +7,8 @@ Visual Studio
 
 Youtube : https://www.youtube.com/watch?v=auevwe4dPqI
   
+Command :
+  1. cargo new <Prj Name>
+  2. cargo build
+  3. cargo run
+
