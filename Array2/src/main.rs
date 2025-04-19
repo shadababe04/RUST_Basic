@@ -21,4 +21,8 @@ fn main() {
     let x: i32 = arr[3] + arr2[2];
     println!("The value of x is: {}", x);
 
+    let sum_of_arr: i32 = arr.iter().sum();
+    println!("The sum of arr is: {}", sum_of_arr);
+    let sum_of_arr2: i32 = arr2.iter().sum();
+    println!("The sum of arr2 is: {}", sum_of_arr2);
 }
